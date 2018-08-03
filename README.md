@@ -26,3 +26,8 @@ The HashMap key will be the function input key, the HashMap value will be the do
 # Date Structure
 
 ![Date Structure](date_structure.png)
+
+
+# Source code in Java and Python 
+
+The LRU Cache Algorithm was implemented in Java and python.
