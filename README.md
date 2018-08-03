@@ -20,7 +20,7 @@ We can use a Queue implemented by a doubled LinkedList to save the items.
 The order in the Queue representes the order of "used time". The Head indicates the most recently used item, the Tail incdicates the least recently used item. We do "remove" and "insert" to keep the order updated.  
 
 The time conplexity of get(key) for a queue is O(n). 
-In order to have a O(1) time for function get and set, we need an extra date strcuter: HashMap.  
+In order to have a O(1) time for function get and set, we need an extra date strcuter: HashMap.
 The HashMap key will be the function input key, the HashMap value will be the double LinkedList Node.
 
 # Date Structure
