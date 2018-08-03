@@ -21,7 +21,7 @@ The order in the Queue representes the order of "used time". The Head indicates 
 
 The time conplexity of get(key) for a queue is O(n). 
 In order to have a O(1) time for function get and set, we need an extra date strcuter: HashMap.
-The HashMap key will be the function input key, the HashMap value will be the double LinkedList Node.
+The HashMap key will be the function input key, the HashMap value will be the double LinkedList Node, as shown in folliwng figure.
 
 # Date Structure
 
