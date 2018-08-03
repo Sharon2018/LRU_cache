@@ -2,4 +2,4 @@
 
 123
 
-![Pipeline](Images/pipeline.png)
+![Date Structure](date_structure.png)
